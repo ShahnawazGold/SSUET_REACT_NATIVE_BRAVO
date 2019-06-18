@@ -1,0 +1,4 @@
+https://serverless-stack.com/chapters/create-a-new-reactjs-app.html
+
+cd myReact
+npm start
